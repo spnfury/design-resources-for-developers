@@ -1282,6 +1282,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Nutilz Glassmorphism Generator](https://nutilz.com/glassmorphism-generator)| Free online glassmorphism CSS generator with live preview — adjust blur, transparency and border to get ready-to-use CSS code. No signup required. |
 | [TableConvert](https://tableconvert.com/)| Table Convert Online is a web-based tool to converts Excel, URL, HTML, Markdown table and CSV to Markdown table, CSV/TSV, JSON, XML, YAML, insert SQL, HTML, Excel and LaTeX table.  |
 | [Excel to Markdown](https://exceltomd.com/excel-to-markdown) | Convert XLSX, XLS, CSV, or pasted cells into Markdown tables locally in the browser without uploading files. |
+| [CSV Creator](https://csvcreator.com/en) | Free browser-based CSV tools: create, view, edit and convert CSV to and from Excel, JSON, SQL, XML, Markdown and PDF. No sign-up; files stay on your device. |
 | [Doodle Ipsum](https://doodleipsum.com/)| The lorem ipsum of illustrations. Just customize your doodles, grab the code, and use them on your web prototypes, landing pages, or no-code tools. |
 | [Figen](https://figen.cc/)| Post Cover & Background Generator Tool |
 | [Windframe](https://www.devwares.com/windframe/)|  A tool to rapidly prototype and build stunning websites using Tailwind CSS (Free & Premium) |
